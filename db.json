@@ -37,7 +37,7 @@
         "fields": {
           "title": "Premium Shirt",
           "price": 139.99,
-          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/pant1.jpg" } } }
+          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/shirt1.jpg" } } }
         }
       },
       {
@@ -45,7 +45,7 @@
         "fields": {
           "title": "Awesome T-shirt for Men",
           "price": 99.99,
-          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/pant1.jpg" } } }
+          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/shirt2.jpg" } } }
         }
       },
       {
@@ -53,7 +53,7 @@
         "fields": {
           "title": "Premium Casual Shirt",
           "price": 129.99,
-          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/pant1.jpg" } } }
+          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/shirt3.jpg" } } }
         }
       },
       {
@@ -69,7 +69,7 @@
         "fields": {
           "title": "Gentelmen Suit",
           "price": 489.99,
-          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/pant1.jpg" } } }
+          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/suit1.jpg" } } }
         }
       },
       {
@@ -77,7 +77,7 @@
         "fields": {
           "title": "Office Suit for Men",
           "price": 759.99,
-          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/pant1.jpg" } } }
+          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/suit2.jpg" } } }
         }
       },
       {
@@ -85,7 +85,7 @@
         "fields": {
           "title": "Formal Women Suit",
           "price": 579.99,
-          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/pant1.jpg" } } }
+          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/suit3.jpg" } } }
         }
       },
       {
@@ -93,7 +93,7 @@
         "fields": {
           "title": "Black T-shirt for Women",
           "price": 256.99,
-          "image": { "fields": { "file": { "url": "https://raw.githubusercontent.com/mubarakhusain/fakeServerForWeb/main/prdImages/pant1.jpg" } } }
+          "image": { "fields": { "file": { "url": "https://github.com/mubarakhusain/fakeServerForWeb/blob/main/prdImages/tshirt.jpg" } } }
         }
       }
     ]
